@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Reduce size of a PDF on Mac OS without losing quality
+comments: true
 
 image:
   teaser: finder-mac-os.png
